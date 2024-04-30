@@ -44,6 +44,7 @@ Admin=76561198139311067:VIP // [Whitelist] InSmile @insmile_#0000
 Admin=76561199216548606:VIP // [Whitelist] JasPen @jumper_70#0000
 Admin=76561198241280918:VIP // [Whitelist] Jergens Ricardo @tttoeymfp#0000
 Admin=76561198174112742:VIP // [Whitelist] JOYBOYz @twinzzy#0
+Admin=76561198305492062:VIP // [Whitelist] JrLookTao @t8a0#0000
 Admin=76561198155391969:VIP // [Whitelist] Katyusha @nomadkatyusha#6659
 Admin=76561198183834394:VIP // [Whitelist] KINGS MAN @kingsman8958#0000
 Admin=76561198963808383:VIP // [Whitelist] KKKing @basinking83#0000
