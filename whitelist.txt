@@ -133,6 +133,7 @@ Admin=76561199152815468:VIP // [Whitelist] 𝕭𝖔𝖔𝖌𝖊𝖞𝖒𝖆 @boo
 Admin=76561199640456656:Seeder // [Whitelist] Ormr @zax6_#0000
 Admin=76561198970543087:Booster // [Whitelist] Doktah YedPedYedKaiYedMaYedMaew @boogeyman7757#0000
 Admin=76561198305255529:Booster // [Whitelist] FIRSTFLASH 
+Admin=76561198450308682:Booster // [Whitelist] Goat @hybr#0000
 Admin=76561199113806597:Booster // [Whitelist] JESUS TH @niceonehm#0000
 Admin=76561198356203927:Booster // [Whitelist] KIRETO @.kireto#0000
 Admin=76561198057860256:Booster // [Whitelist] Life is not daijoubu @finnadream#0000
